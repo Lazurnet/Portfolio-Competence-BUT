@@ -1,7 +1,7 @@
 # Portfolio de mes compétences – Formation MMI
 J'ai été étudiante et Alternante en MMI **Métiers du Multimédia et de l’Internet**, parcours développement web et dispositifs interactifs
 
-Ce portfolio ou portefeuille de compétence représente les compétences que j'ai acquise en développement, et lors de mon expérience en tant que Chef de projet IT chez **Renault Group**.
+Ce portfolio ou portefeuille de compétence présente les compétences que j'ai acquise en développement et en gestion de projets lors de mon expérience IT chez **Renault Group**.
 
 J'ai voulu représenter à travers une carte mentale ma capacité à **lier les compétences techniques et métiers**:
 - **La retranscription des besoins utilisateurs** : Comprendre et traduire en produit opérationnel des attentes et exigences métiers
